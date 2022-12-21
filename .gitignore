@@ -1,0 +1,8 @@
+# Ignore filetype
+*.amlignore.amltmp
+*.amltmp
+*.pyc
+*.ipynb_aml_checkpoints/*
+# Ignore some folders
+results/
+data/
